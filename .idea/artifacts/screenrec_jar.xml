@@ -1,0 +1,15 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="screenrec:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/screenrec_jar</output-path>
+    <root id="archive" name="screenrec.jar">
+      <element id="module-output" name="screenrec" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/jmf.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/mediaplayer.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/multiplayer.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/screen_converter.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/screen_player.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/screen_recorder.jar" path-in-jar="/" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/customizer.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jmf">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/jmf.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/mediaplayer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/multiplayer.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/screen_converter.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/screen_player.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/screen_recorder.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
